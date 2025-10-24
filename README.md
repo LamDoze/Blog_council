@@ -1,4 +1,4 @@
-# Dự án "Hội đồng" Agent AI (Agent Team Project)
+# Dự án "Hội đồng" Agent AI 
 
 Đây là một dự án Python đơn giản sử dụng LangGraph để tạo ra một nhóm các agent AI (một "hội đồng") làm việc cùng nhau để hoàn thành một nhiệm vụ: Nghiên cứu và viết một bài blog ngắn.
 
